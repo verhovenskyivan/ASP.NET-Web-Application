@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\verhovensky\source\repos\ASP.NET_WEB_APP\ASP.NET_WEB_APP\ASP.NET_WEB_APP
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -23,8 +27,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmludEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Home/PrintValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmludFZhbHVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Home/PrintValuesCollection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmludFZhbHVlc0NvbGxlY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/verhovensky/source/repos/ASP.NET_WEB_APP/ASP.NET_WEB_APP/ASP.NET_WEB_APP/Views/Shared/Error.cshtml]

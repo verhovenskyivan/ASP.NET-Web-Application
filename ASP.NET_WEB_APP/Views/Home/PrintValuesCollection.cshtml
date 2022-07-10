@@ -1,0 +1,13 @@
+﻿@model IEnumerable<int>
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="card">
+    @foreach(var item in Model)
+    {
+        <p class="card_text"> @item </p>
+    }
+</div>
+<h1>PrintValuesCollection</h1>
+
